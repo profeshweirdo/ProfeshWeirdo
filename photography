@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Photography</title>
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="grain"></div>
+
+<header class="site-header">
+  <a href="index.html" class="logo">Your Name</a>
+</header>
+
+<main class="sequence">
+
+  <div class="frame">
+    <img src="images/photography/photo1.jpg" alt="">
+    <div class="caption">New Orleans, 2026</div>
+  </div>
+
+  <div class="frame">
+    <img src="images/photography/photo2.jpg" alt="">
+  </div>
+
+  <div class="frame">
+    <img src="images/photography/photo3.jpg" alt="">
+  </div>
+
+</main>
+
+<script src="js/main.js"></script>
+
+</body>
+</html>
