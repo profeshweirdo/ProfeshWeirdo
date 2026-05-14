@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Sticker Art</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="grain"></div>
+
+<header class="site-header">
+  <a href="index.html" class="logo">Your Name</a>
+</header>
+
+<section class="sticker-grid">
+
+  <img src="images/stickers/sticker1.png">
+  <img src="images/stickers/sticker2.png">
+  <img src="images/stickers/sticker3.png">
+
+</section>
+
+</body>
+</html>
